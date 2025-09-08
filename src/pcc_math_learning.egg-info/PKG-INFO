@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: pcc_math_learning
+Version: 0.1.0
+Summary: Training project for math/programming notebooks and scripts
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+#Python lab studying
